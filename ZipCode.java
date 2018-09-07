@@ -1,7 +1,7 @@
 /**
 *ZipCode.java
 *Connie He
-*
+*edit
 *This program identifies geographical region via zip code information.
 */
 
