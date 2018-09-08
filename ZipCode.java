@@ -1,7 +1,8 @@
+
 /**
 *ZipCode.java
 *Connie He
-*
+*edit
 *This program identifies geographical region via zip code information.
 */
 
@@ -14,7 +15,6 @@ public class ZipCode {
 
       System.out.println("Please enter your zip code");
       zip = stdIn.nextLine();
-      System.out.println("yay");
 
       switch (zip.charAt(0)) {
          case '0':case '2': case '3':
@@ -34,3 +34,4 @@ public class ZipCode {
       }
    }
 }
+     
